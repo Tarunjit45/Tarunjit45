@@ -1,6 +1,6 @@
 # 🌟 Hey there, I'm Tarunjit Biswas! 🌟
 
-![212750147-854a394f-fee9-4080-9770-78a4b7ece53f](https://github.com/user-attachments/assets/34cc3bad-d22b-4e12-bd87-5ad5d2df3810)
+![212750147-854a394f-fee9-4080-9770-78a4b7ece53f](https://github.com/user-attachments/assets/34cc3bad-d22b-4e12-bd87-5ad5d2df3810)   ![221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c](https://github.com/user-attachments/assets/bfb60014-6bb2-4d80-9f9d-d2108f5089bc)
 
 
 ### 👨‍🎓 About Me
@@ -34,7 +34,7 @@ I'm a **B.Tech CSE student** on a mission to explore the fascinating world of **
 
 ### 🌱 I’m Currently Learning
 - Advanced AI models and frameworks  
-- Full-stack development and API integration      ![221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c](https://github.com/user-attachments/assets/bfb60014-6bb2-4d80-9f9d-d2108f5089bc)
+- Full-stack development and API integration 
 
 ---
 
