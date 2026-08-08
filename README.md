@@ -126,7 +126,7 @@ I welcome contributions and open collaboration! Check out these repositories if 
 ## 📬 Connect & Contact
 
 - **GitHub Profile:** [github.com/Tarunjit45](https://github.com/Tarunjit45)
-- **Primary Contact:** `tarunjit.dev@gmail.com`
+- **Primary Contact:** `tarunjit.biswas@yahoo.com`
 - **Dashboard Command Center:** Managed continuously by Autonomous CTO Org.
 
 ---
