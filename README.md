@@ -423,15 +423,15 @@ I'm interested in contributing to projects around:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Tarunjit45&show_icons=true&theme=transparent&hide_border=true&count_private=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarunjit45&theme=transparent&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarunjit45&theme=github-compact&hide_border=true"/>
 
 </p>
 
