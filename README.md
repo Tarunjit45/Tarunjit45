@@ -376,7 +376,7 @@ If you are a founder, engineering leader, AI researcher, or developer who values
 
 * 🌐 **Portfolio & Platform:** [confluxai.in](https://confluxai.in/)
 * 🪐 **Interactive 3D Galaxy:** [tarunjit45.github.io/gitgalaxy](https://tarunjit45.github.io/gitgalaxy/)
-* 💼 **LinkedIn:** [linkedin.com/in/tarunjit-biswas](https://www.linkedin.com/in/tarunjit-biswas/)
+* 💼 **LinkedIn:** [linkedin.com/in/tarunjit-biswas](https://www.linkedin.com/in/tarunjit-biswas-a5248131b)
 * 🐙 **GitHub:** [github.com/Tarunjit45](https://github.com/Tarunjit45)
 * 📬 **Email:** `tarunjitbiswas45@gmail.com`
 
